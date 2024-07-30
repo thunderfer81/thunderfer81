@@ -1,6 +1,6 @@
 ## Olá! Bem vindo ao meu perfil no Github 😄
 
-Meu nome é Fernando Soares e sou professor de Física, Matemática e Tecnologia e Inovação em uma pequena cidade do interior!!
+Meu nome é **Fernando Soares e sou professor de Física, Matemática e Tecnologia e Inovação** em uma pequena cidade do interior!!
 - Estou trabalhando com Javascript, HTML e CSS (começando) 😅
 - Também gosto de [Microbit](https://microbit.org/) e [Arduíno](https://www.arduino.cc/)
 - Assim como [Python](https://www.python.org/) também...
@@ -14,3 +14,10 @@ Meu nome é Fernando Soares e sou professor de Física, Matemática e Tecnologia
 
 
 ![](https://media.tenor.com/GOj9ZF_-ZOcAAAAM/cat.gif)
+
+
+
+
+
+
+>Elaborado por Fernando Soares
